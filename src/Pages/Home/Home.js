@@ -1,17 +1,22 @@
 import React from 'react';
-import Footer from '../Shared/Footer';
 import Banner from './Banner';
+import Contact from './Contact';
+import Info from './Info';
+import Products from './Products';
+import Summary from './Summary';
+
+
+
 
 const Home = () => {
     return (
         <div>
             <Banner></Banner>
-            {/* <Info></Info>
-            <Services></Services>
-            <MakeAppointment></MakeAppointment>
-            <Testimonials></Testimonials>
-            <Contact></Contact> */}
-            <Footer></Footer>
+            <Products></Products>
+            <Info></Info>
+            <Summary></Summary>
+            <Contact></Contact> 
+            
         </div>
     );
 };

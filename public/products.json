@@ -1,0 +1,101 @@
+[
+    {
+      "name": "Screwdriver",
+      "manufacturer": "jantrik",
+      "email": "mmrsm46@gmail.com",
+      "price": 300,
+      "moq": 100,
+      "stock": 3000,
+      "category": "tools",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, mi in ornare elementum, libero nibh lacinia urna, quis convallis lorem erat at purus. Maecenas eu varius nisi.",
+      "img": "https://i.ibb.co/1KBT1nw/category-1.jpg"
+    },
+    {
+      "name": "Measurement",
+      "manufacturer": "jantrik",
+      "email": "mmrsm46@gmail.com",
+      "price": 350,
+      "moq": 50,
+        "stock": 2000,
+        "category": "tools",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, mi in ornare elementum, libero nibh lacinia urna, quis convallis lorem erat at purus. Maecenas eu varius nisi.",
+      "img": "https://i.ibb.co/DQghRwR/category-5.jpg"
+    },
+    {
+      "name": "Electric Planer Brandix",
+      "manufacturer": "jantrik",
+      "email": "mmrsm46@gmail.com",
+      "price": 390,
+      "moq": 250,
+        "stock": 2000,
+        "category": "tools",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, mi in ornare elementum, libero nibh lacinia urna, quis convallis lorem erat at purus. Maecenas eu varius nisi.",
+      "img": "https://i.ibb.co/QN7Tpzw/product-1.jpg"
+    },
+    {
+      "name": "Tool IRadix",
+      "manufacturer": "jantrik",
+      "email": "mmrsm46@gmail.com",
+      "price": 380,
+      "moq": 50,
+        "stock": 500,
+        "category": "tools",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, mi in ornare elementum, libero nibh lacinia urna, quis convallis lorem erat at purus. Maecenas eu varius nisi.character.",
+      "img": "https://i.ibb.co/yh90Gmq/product-2.jpg"
+    },
+    {
+      "name": "Spanner Wrench",
+      "manufacturer": "jantrik",
+      "email": "mmrsm46@gmail.com",
+      "price": 360,
+      "moq": 50,
+        "stock": 500,
+        "category": "tools",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, mi in ornare elementum, libero nibh lacinia urna, quis convallis lorem erat at purus. Maecenas eu varius nisi.both body and mind.",
+      "img": "https://i.ibb.co/fSSynMJ/product-9.jpg"
+    },
+    {
+      "name": " Drilling Machine",
+      "manufacturer": "jantrik",
+      "email": "mmrsm46@gmail.com",
+      "price": 420,
+      "moq": 50,
+        "stock": 500,
+        "category": "tools",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, mi in ornare elementum, libero nibh lacinia urna, quis convallis lorem erat at purus. Maecenas eu varius nisi.",
+      "img": "https://i.ibb.co/TWDDK5B/product-6.jpg"
+    },
+    {
+      "name": "Router Power Tool",
+      "manufacturer": "Porsche",
+      "email": "mmrsm46@gmail.com",
+      "price": 460,
+      "moq": 50,
+      "stock": 500,
+      "category": "tools",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, mi in ornare elementum, libero nibh lacinia urna, quis convallis lorem erat at purus. Maecenas eu varius nisi.",
+      "img": "https://i.ibb.co/GvJvVVg/product-5.jpg"
+    },
+    {
+      "name": "Ashs Chainsaw ",
+      "manufacturer": "Land Rover",
+      "email": "mmrsm46@gmail.com",
+      "price": 440,
+      "moq": 50,
+        "stock": 500,
+        "category": "tools",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, mi in ornare elementum, libero nibh lacinia urna, quis convallis lorem erat at purus. Maecenas eu varius nisi. Kingdom.",
+      "img": "https://i.ibb.co/xgbDyNb/product-12.jpg"
+    },
+    {
+      "name": "Angel Grinder",
+      "manufacturer": "jantrik",
+      "email": "mmrsm46@gmail.com",
+      "price": 480,
+      "moq": 50,
+      "stock": 500,
+      "category": "tools",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ornare, mi in ornare elementum, libero nibh lacinia urna, quis convallis lorem erat at purus. Maecenas eu varius nisi.quality and craftsmanship.",
+      "img": "https://i.ibb.co/mbWr6nn/product-13.jpg"
+    }
+  ]

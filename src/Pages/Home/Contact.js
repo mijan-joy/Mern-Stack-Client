@@ -20,7 +20,7 @@ const Contact = () => {
           <input
             type="text"
             placeholder="Email Address"
-            className="input w-full max-w-md"
+            className="input input-primary w-full max-w-md"
           />
   
           <input
